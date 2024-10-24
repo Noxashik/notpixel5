@@ -82,7 +82,6 @@ Before you begin, make sure you have the following installed:
 You can download the [**repository**](https://github.com/Noxashik/notpixel5) by cloning it to your system and installing the necessary dependencies:
 ```shell
 git clone https://github.com/Noxashik/notpixel5.git
-Then Run:
 cd notpixel5
 ```
 
