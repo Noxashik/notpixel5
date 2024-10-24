@@ -83,7 +83,6 @@ You can download the [**repository**](https://github.com/Noxashik/notpixel5) by 
 ```shell
 git clone https://github.com/Noxashik/notpixel5.git
 Then Run:
-```
 cd notpixel5
 ```
 
